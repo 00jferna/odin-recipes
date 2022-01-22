@@ -1,3 +1,3 @@
 # odin-recipes
-A first attempt at a website.
+This is a list of my favorite recipes.
 
